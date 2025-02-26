@@ -63,12 +63,6 @@ This repository contains the code and resources for the project **"Forget with P
      - [checkpoints.zip](https://polybox.ethz.ch/index.php/s/1h8Y1z9vbLeldzB): Contains checkpoints for models finetuned on the retain set.
    - Download and extract [data.zip](https://polybox.ethz.ch/index.php/s/Je6DHi0M1l9S7zk) in the base directory.
 
-2. **Python Environment**:
-   - Ensure you have the required Python packages installed. Use the following command to install dependencies:
-     ```bash
-     pip install -r requirements.txt
-     ```
-
 ---
 
 ## References
